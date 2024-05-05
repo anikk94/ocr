@@ -3,3 +3,5 @@
 pytorch_ocr/ data/
 
 gradio_ocr/flagged/
+
+extra.html
